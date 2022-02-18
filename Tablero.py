@@ -37,7 +37,7 @@ class Tablero:
     #recuerde que el primer parámetro de cada método es siempre self 
         Fichas[Turno-1][1] = self.posicion()
         print(self.Orden)
-        #Movimiento
+
 
 
 
